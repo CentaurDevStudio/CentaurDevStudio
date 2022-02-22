@@ -1,7 +1,7 @@
 ![CentaurDevStudio](https://i.ibb.co/GnN54DM/Banner.png)
 #
 
-### Hello👋
+### Hey There!👋
 
 > Working with
 > - Front End
