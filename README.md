@@ -3,10 +3,10 @@
 
 ### Hey There!👋
 
-> Working with
-> - Front End
-> - Back End
-> - Java
+Working with
+- Front End
+- Back End
+- Java
 
 #
 
